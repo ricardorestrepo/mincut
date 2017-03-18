@@ -1,0 +1,2 @@
+# mincut
+Algorithm description
